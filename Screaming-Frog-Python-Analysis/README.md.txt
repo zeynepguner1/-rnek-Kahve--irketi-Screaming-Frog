@@ -1,4 +1,4 @@
-Starbucks Web Sitesi Teknik Sağlık Analizi
+Bir Kahve Şirketinin Web Sitesi Teknik Sağlık Analizi
 
 Bu proje, Örnek bir kahve şirketinin web sitesinin teknik sağlık durumunu değerlendirmek için hazırlanmıştır.  
 Veriler Screaming Frog ile toplanmış, Python kullanılarak analiz edilmiştir.
